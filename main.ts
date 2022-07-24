@@ -1,13 +1,13 @@
 input.onButtonPressed(Button.A, function () {
-    katakana.showString("マエ")
+    katakana.showString("ﾏｴ")
     radio.sendString("A")
 })
 input.onButtonPressed(Button.AB, function () {
-    katakana.showString("テイシ")
+    katakana.showString("ﾃｲｼ")
     radio.sendString("C")
 })
 input.onButtonPressed(Button.B, function () {
-    katakana.showString("ウシロ")
+    katakana.showString("ｳｼﾛ")
     radio.sendString("B")
 })
 radio.setGroup(1)
