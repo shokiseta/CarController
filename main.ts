@@ -11,3 +11,4 @@ input.onButtonPressed(Button.B, function () {
     radio.sendString("B")
 })
 radio.setGroup(1)
+katakana.setScrollTime(100)
